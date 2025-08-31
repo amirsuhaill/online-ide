@@ -19,7 +19,7 @@ router.post("/signUp", async (req, res) => {
     return res.json({ success: false, message: "Email already exists" });
   }
   else {
-
+    
     bcrypt.genSalt(10, function (err, salt) {
       bcrypt.hash(password, salt, function (err, hash) {
         let user = userModel.create({
