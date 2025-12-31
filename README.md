@@ -2,6 +2,16 @@
 
 A full-stack web-based Integrated Development Environment (IDE) that allows users to write, edit, and preview HTML, CSS, and JavaScript code in real-time. Built with React and Express.js, this application provides a seamless coding experience with live preview capabilities.
 
+## 🌐 Live Demo
+
+**Try it now:** [https://online-ifgpqnqsj-amirsuhaills-projects.vercel.app/login](https://online-ifgpqnqsj-amirsuhaills-projects.vercel.app/login)
+
+### Demo Credentials
+- **Email:** `demouser@gmail.com`
+- **Password:** `user123`
+
+> 💡 Use the demo credentials to explore the full functionality of the IDE without creating an account.
+
 ## ✨ Features
 
 ### 🔐 User Authentication
@@ -246,13 +256,9 @@ online-ide/
 - Code formatting and linting
 - Terminal integration
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
-Built with ❤️ by developers, for developers.
+Built with ❤️ by Amir Suhail, for developers.
 
 ## 🤝 Contributing
 
